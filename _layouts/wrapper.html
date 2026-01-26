@@ -27,12 +27,12 @@
     <div class=main>
     <div class=inner>
     
-	{{ page.content }}
+	{{ content }}
 	
     </div>
     </div>
     
-    <div class=footer>This stylesheet hastily put together by EGGRAMEN, with inspiration from the <a href="https://wings.nu">Wings Network</a>. <br>Headers and upper links use the font <a href="https://www.dafont.com/azkasia.font">'Azkasia'</a> by semuthitam. Image is a panel from <a href="https://homestuck.com">Homestuck</a>.</div>
+    <div class=footer>{{ page.date | date: "%b %-d, %Y" }} © ModulandoStars - <a href="#">[Go to Top]</a></div>
     </div>
   </body>
 </html>

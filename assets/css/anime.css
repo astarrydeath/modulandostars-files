@@ -98,7 +98,7 @@ For example: nav1 .navlink {} would be .nav1 .navlink {} instead.
 /*This is where the pretty header image goes! Replace the url with the location of your own.*/
 .header {
   display: block;
-  background: linear-gradient(rgba(0, 0, 0, 0.99), rgba(0, 0, 0, 0)), url("/assets/css/inutero.jpg") no-repeat; /*REPLACE ME!*/
+  background: linear-gradient(rgba(0, 0, 0, 0.99), rgba(0, 0, 0, 0)), url("/assets/css/headergif.gif") no-repeat; /*REPLACE ME!*/
   background-size: cover;
   height:400px;
   top: 0;
@@ -195,7 +195,7 @@ nav2 .navlink a:hover, nav2 .navlink a:focus {
   margin: 0;
   position: relative;
   /*In order: gradient overlay (opacity going from 1 to 0.875), actual background color, footer image*/
-  background: linear-gradient(to top, rgb(69,1,82,0.25), rgb(53,1,44,1) 400px), #270072 url("/img/pexels-4254548-crop2.jpg") no-repeat; /* REPLACE ME */
+  background: linear-gradient(to top, rgb(21, 0, 63,0.25), rgba(21, 0, 63, 1) 400px), #15003f url("/assets/css/footergif.gif") no-repeat; /* REPLACE ME */
   background-size: 900px auto;
   background-position:bottom center;
   }
@@ -218,7 +218,7 @@ nav2 .navlink a:hover, nav2 .navlink a:focus {
   padding: 0.75em 20px;
   text-align: center;
   font-size: 0.85em;
-  background: #3a015C;
+  background: #0c0025;
   line-height: 150%;
   }
   
