@@ -16,3 +16,7 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+
+
+used this [Eggramen site example](https://eggramen.neocities.org/code/css/more/flisty) for a template, Used Octuple Max by [deFharo](https://defharo.com/)

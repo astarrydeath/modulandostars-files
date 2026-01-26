@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <!-- The style.css file allows you to change the look of your web pages.
+         If you include the next line in all your web pages, they will all share the same look.
+         This makes it easier to make new pages for your site. -->
+    <link href="{{ '/assets/css/anime.css' | relative_url }}" rel="stylesheet" type="text/css" media="all">
+  </head>
+   <body>
+    <div class=wrapper>
+    <div class=header><h1>{{ site.title }}</h1></div>
+<!--    <nav1>
+      <div class=navlink><a href="#">Link 1</a></div>
+      <div class=navlink><a href="#">Link 2</a></div>
+      <div class=navlink><a href="#">Link 3</a></div>
+    </nav1> -->
+    <nav2>
+      <div class=navlink><a href="/">Home</a></div>
+      <div class=navlink><a href="/map">Site Map</a></div>
+      <div class=navlink><a href="/about">About</a></div>
+      <div class=navlink><a href="#">Contact</a></div>
+      <!--<div class=navlink><a href="#">Link 3</a></div> -->
+    </nav2>
+    <div class=main>
+    <div class=inner>
+    
+	{{ page.content }}
+	
+    </div>
+    </div>
+    
+    <div class=footer>This stylesheet hastily put together by EGGRAMEN, with inspiration from the <a href="https://wings.nu">Wings Network</a>. <br>Headers and upper links use the font <a href="https://www.dafont.com/azkasia.font">'Azkasia'</a> by semuthitam. Image is a panel from <a href="https://homestuck.com">Homestuck</a>.</div>
+    </div>
+  </body>
+</html>
