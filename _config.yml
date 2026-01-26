@@ -29,10 +29,16 @@ url: "http://modulandostars.fyi" # the base hostname & protocol for your site, e
 twitter_username: modulandostars
 github_username:  modulandostars
 
+# localization
+languages: ["en", "pt-br"]
+exclude_from_localizations: ["javascript", "images", "css"]
+default_locale_in_subfolder: true
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
 
 defaults:
   -
