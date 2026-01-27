@@ -1,13 +1,23 @@
 ---
 layout: page
-Title: My Projects
+title: My Projects
 ---
 
-<h1>My projects</h1>
+<h1>Meus projetos</h1>
+<p>Olá, essa é minha página onde faço lista sobre meus projetos cujo fiz ou participei! Se alguns nomes não ter hyperlink, é bem provável que o projeto mencionado não esteja pronto aos olhos públicos!! Aqui está uma lista aproximada dos projetos cujo participei!</p>
 <ul>
 {% for page in site.pages %}
   {% if page.path contains 'projects/' and page.name != 'index.html' %}
-    <li><a href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a></li>
+    <li><a href="{{ page.url | relative_url }}"><b>{{ page.title | default: page.name }}</b> ({{ page.yearactive }}) [{{ page.whatIveDone }}]</a></li>
   {% endif %}
 {% endfor %}
+
+<!-- 
+		THIS SECTION IS FOR OUTSIDE LINKS
+-->
+	<li><a href="https://gamejolt.com/games/Ataquepudim/648041" target="_blank"><b>Ataque Pudim</b> (2021) [Criador do jogo, programador principal, "designer"]</a></li>
+	<li><a href="https://instagram.com/the.evicted" target="_blank"><b>The Evicted</b> (2025) [Baterista]</a></li>
+	<li><a href="https://youtube.com/@Equipe_Apimentada" target="_blank"><b>Equipe Apimentada</b> (2023 - presente) [Cofundador, membro principal, editor, gravador]</a></li>
+	
+
 </ul>

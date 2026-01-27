@@ -1,0 +1,20 @@
+---
+layout: page
+title: Minhas Ideias
+---
+
+<h1>Minhas ideias</h1>
+<p>Olá, essa é minha página onde faço lista sobre meus projetos cujo fiz ou participei! Se alguns nomes não ter hyperlink, é bem provável que o projeto mencionado não esteja pronto aos olhos públicos!! Aqui está uma lista aproximada dos projetos cujo participei!</p>
+<ul>
+{% for page in site.pages %}
+  {% if page.path contains 'ideas/' and page.name != 'index.html' %}
+    <li><a href="{{ page.url | relative_url }}"><b>{{ page.title | default: page.name }}</b> {{ post.date | date: "%b %-d, %Y" }}</a></li>
+  {% endif %}
+{% endfor %}
+
+<!-- 
+		THIS SECTION IS FOR OUTSIDE LINKS
+-->
+	
+
+</ul>

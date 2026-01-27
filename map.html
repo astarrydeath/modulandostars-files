@@ -1,12 +1,14 @@
 ---
 layout: page
+title: Mapa
+
 ---
 
-<p>this is a (temporary) map</p>
+<p>this is a (temporary) mapa</p>
 
     {% for post in site.pages %}
       <li>
-        <a href="{{ post.url | relative_url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }} ({{ post.name }})</a>
+        <a href="{{ post.url | relative_url }}">({{ post.name }}) {{ post.title }}</a>
         <p>{{ post.excerpt | strip_html }}</p>
       </li>
     {% endfor %}

@@ -1,0 +1,2 @@
+- [ ] Um falando e olhando pra esquerda
+- [ ] Olhando apenas

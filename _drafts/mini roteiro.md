@@ -1,0 +1,1 @@
+Oi. Já faz tecnicamente 6 meses que o melhor canal do mundo da galáxia fabrica sua última obra de arte....... No qual eles esqueceram de publicá-lo, então são DOIS vídeos em uma caixa d'água só.... aproveite

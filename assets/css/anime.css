@@ -87,6 +87,10 @@ For example: nav1 .navlink {} would be .nav1 .navlink {} instead.
 
 ***/
 
+.center-text {
+  text-align: center;
+}
+
 /*Content all goes in here.*/
 .wrapper {
   display: block;
