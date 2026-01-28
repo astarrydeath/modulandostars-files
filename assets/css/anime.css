@@ -88,10 +88,11 @@ For example: nav1 .navlink {} would be .nav1 .navlink {} instead.
 ***/
 
 .container {
-  vertical-align: top;
+  align-items: star;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 5px;  /* Optional: Adds space between the elements */
+  min-height: 455px;
 }
 
 lastfm-tracks {
