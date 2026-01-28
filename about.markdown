@@ -13,19 +13,4 @@ O meu plano é começar simples, contando sobre conteúdo de meu interesse, faze
 Sou um adolescente de 16 anos, residente em Rio de Janeiro, tenho muito interesse em música (toco bateria até :3) tecnologia, jogos e software também.
 Pretendo dar uma diminuida no uso de redes sociais já que têm me prejudicado mais que ajudado, por sinal eu acho muito bacana ter um site pra expor o que eu gosto :v
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
-
-
-
-used this [Eggramen site example](https://eggramen.neocities.org/code/css/more/flisty) for a template, Used Octuple Max by [deFharo](https://defharo.com/)
+Este site foi feito usando [Jekyll](https://github.com/jekyll/jekyll) com layouts customizados de [Eggramen](https://eggramen.neocities.org/code/css/more/flisty), fonte usados de títulos "Octuple Max" by [deFharo](https://defharo.com/)
