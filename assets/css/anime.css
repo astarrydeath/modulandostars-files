@@ -87,10 +87,16 @@ For example: nav1 .navlink {} would be .nav1 .navlink {} instead.
 
 ***/
 
+.container {
+  display: flex; /* Makes the container a flex container */
+  justify-content: space-between; /* Optional: Distributes space between items */
+  gap: 5px;  /* Optional: Adds space between the elements */
+}
+
 lastfm-tracks {
   box-sizing: border-box;
   border: 1px solid #000;
-  width: 100%;
+  width: 400px;
   height: 455px;
 }
 
