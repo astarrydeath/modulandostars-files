@@ -88,8 +88,8 @@ For example: nav1 .navlink {} would be .nav1 .navlink {} instead.
 ***/
 
 .container {
-  display: flex; /* Makes the container a flex container */
-  justify-content: space-between; /* Optional: Distributes space between items */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 5px;  /* Optional: Adds space between the elements */
 }
 
