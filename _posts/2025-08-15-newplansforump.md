@@ -2,6 +2,7 @@
 title: Meus Planos para ULtimate Meme Payloader
 layout: post
 date: 2025-08-15
+categories: update
 ---
 
 O [[Ultimate Meme Payloader]] não ironicamente se tornou um de meus maiores projetos em que eu busquei fazer um software bobo por fun baseado em vídeos de *"Uma hora de silêncio quebrado por X meme ou Y som"*, e manter o desenvolvimento aos poucos tem se provado aumentar sua dificuldade, pois o motor (que é pra jogos por sinal kkkkk), fica lentamente mais incompreensível.

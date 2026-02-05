@@ -2,6 +2,7 @@
 date: 2025-08-15
 title: Desejo de ambiente ideal ao ouvir CDs
 layout: post
+categories: CDs
 ---
 
 Então, desde 2024 [[Coleção de CD|coleciono cds como hobby e parte por paixão por música]], com finalidade para ouvir no momento que for de minha vontade e que possa me fazer desuso do streaming e fazer os "rips" de flacs.
