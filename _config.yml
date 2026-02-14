@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Isto é uma descrição muito pica para o meu website >:3
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://astarrydeath.com" # the base hostname & protocol for your site, e.g. http://example.com
+domain: astarrydeath.com
 twitter_username: modulandostars
 github_username:  astarrydeath
 youtube_username: astarrydeath
