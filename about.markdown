@@ -6,7 +6,7 @@ permalink: /about/
 
 # About me 
 
-...Isso está ligado? Alô?.. Ok. Bom dia, boa tarde ou boa noite! sou **Eric Ernesto**, também sou chamado online por **ModulandoStars ou "modulando"** para encurtar _(anteriormente modulador592/ericcarioca/moodwoboo)_, estou dando uma experimentada nessa tecnologia chamada a... "__World Wide Web_". Pensei que poderia fazer um site pra avançar o conhecimento nessa área, escrevendo sobre assuntos de meu interesse, projetos, divulgar o que faço entre outros!
+...Isso está ligado? Alô?.. Ok. Bom dia, boa tarde ou boa noite! sou **Eric Ernesto**, também sou chamado online por **astarrydeath** ~~ModulandoStars ou "modulando"~~ para encurtar _(anteriormente modulador592/ericcarioca/moodwoboo)_, estou dando uma experimentada nessa tecnologia chamada a... "__World Wide Web_". Pensei que poderia fazer um site pra avançar o conhecimento nessa área, escrevendo sobre assuntos de meu interesse, projetos, divulgar o que faço entre outros!
 Redes Sociais tem ficado bem padronizado ultimamente, todos com um design parecido. Meio que perde seu charme não? Tive essa ideia na mente por um tempinho, e acho que finalmente fazer essa ideia acontecer
 O meu plano é começar simples, contando sobre conteúdo de meu interesse, fazer uma lista de projetos e coisas que eu fiz!
 
