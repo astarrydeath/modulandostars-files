@@ -18,17 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: astarrydeath' website
+title: astarrydeath's website
 email: eu@ericernesto.com.br
 description: >- # this means to ignore newlines until "baseurl:"
   Isto é uma descrição muito pica para o meu website >:3
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://astarrydeath.com" # the base hostname & protocol for your site, e.g. http://example.com
 domain: astarrydeath.com
-twitter_username: modulandostars
-github_username:  astarrydeath
-youtube_username: astarrydeath
-steam_username:   astarrydeath
+twitter_username:          astarrydeath
+github_username:           astarrydeath
+youtube_username:          astarrydeath
+steam_username:            astarrydeath
+lastfm_username:           astarrydeath
+instagram_username:        ericcarioca
+footerCredits:             Eric 'astarrydeath' Ernesto
 
 # localization
 languages: ["en", "pt-br"]

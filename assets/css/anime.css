@@ -11,7 +11,8 @@ body {
   background: #11001C;
   background-image: url("bg-stars.gif");
   font-size: 0.95em;
-  font-family: "Liberation Mono", "Source Code Pro", "Courier New", monospace;
+  font-family: "Comic Sans MS", "Times New Roman";
+  /*font-family: "Liberation Mono", "Source Code Pro", "Courier New", monospace;*/
   }
   
 a {
